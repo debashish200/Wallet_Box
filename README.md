@@ -2,8 +2,8 @@
 
 Wallet Watch is a **full-stack, user-authenticated expense tracker web application** that helps users manage daily expenses and analyze their spending patterns using **interactive charts and insights**.
 
-🚀 **Live Application (Render):** https://wallet-watch-9unz.onrender.com    
-📦 **GitHub Repository:** https://github.com/hema-madhuri-mamidi/Wallet-Watch
+🚀 **Live Application (Render):** ----   
+📦 **GitHub Repository:** https://github.com/debashish200/Wallet_Box
 
 ---
 
@@ -64,7 +64,7 @@ Wallet Watch provides meaningful insights to users:
 ## 📸 Screenshots
 
 ### 1️⃣ Home Page
-![Home](screenshots/add-edit.PNG)
+![Home](screenshots/Screenshot1.PNG)
 
 ### 2️⃣ Add Expense
 ![Add Expense](screenshots/add.PNG) 
