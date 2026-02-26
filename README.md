@@ -90,7 +90,7 @@ Wallet Watch provides meaningful insights to users:
 
 > For developers who want to run the project locally
 
-Follow the steps below to run the **Wallet Watch** project on your local machine.
+Follow the steps below to run the **Wallet Box** project on your local machine.
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -149,6 +149,6 @@ This project demonstrates:
 ## 👩‍💻 Author
 
 **R. Debashish Das**   
-LinkedIn: linkedin.com/in/r-debashish-das-2a384b2a6  
+LinkedIn:(https://www.linkedin.com/in/r-debashish-das-2a384b2a6/) 
 
 ⭐ If you like this project, consider giving it a star!
