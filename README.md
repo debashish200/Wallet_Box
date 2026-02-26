@@ -64,7 +64,8 @@ Wallet Watch provides meaningful insights to users:
 ## 📸 Screenshots
 
 ### 1️⃣ Home Page
-![Home](screenshots/Screenshot1.PNG)
+![Home](screenshots/Screenshot1.png)
+
 
 ### 2️⃣ Add Expense
 ![Add Expense](screenshots/add.PNG) 
