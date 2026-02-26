@@ -68,19 +68,19 @@ Wallet Watch provides meaningful insights to users:
 
 
 ### 2️⃣ Add Expense
-![Add Expense](screenshots/add.PNG) 
+![Add Expense](screenshots/Screenshot6.png) 
 
 ### 3️⃣ Edit Expense
-![Edit Expense](screenshots/edit.PNG)  
+![Edit Expense](screenshots/Screenshot5.png)  
 
 ### 4️⃣ Analytics
-![Analysis](screenshots/analysis.PNG)  
+![Analysis](screenshots/Screenshot2.png)  
 
 ### 5️⃣ Login 
-![login page](screenshots/login.PNG)
+![login page](screenshots/Screenshot3.png)
 
 ### 6️⃣ Register 
-![Register page](screenshots/register.png)  
+![Register page](screenshots/Screenshot4.png)  
 
 
 ---
