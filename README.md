@@ -84,13 +84,6 @@ Wallet Watch provides meaningful insights to users:
 
 ---
 
-## 🌐 Live Deployment (Render)
-
-The application is deployed and accessible online using **Render**.
-
-🔗 **Live URL:** https://wallet-watch-9unz.onrender.com 
-
----
 
 ## ⚙️ Run Locally (Optional)
 
@@ -154,8 +147,7 @@ This project demonstrates:
 ---
 ## 👩‍💻 Author
 
-**Hema Madhuri Mamidi**  
-GitHub: https://github.com/hema-madhuri-mamidi   
-LinkedIn: https://linkedin.com/in/hema-madhuri-mamidi  
+**R. Debashish Das**   
+LinkedIn: linkedin.com/in/r-debashish-das-2a384b2a6  
 
 ⭐ If you like this project, consider giving it a star!
